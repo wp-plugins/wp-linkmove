@@ -1,4 +1,4 @@
-﻿===Baidu Sitemap Generator===
+﻿===Wordpress Link Move===
 Contributors: 黄聪
 Tags: Wordpress,Link,Move
 Requires at least: 1.0
