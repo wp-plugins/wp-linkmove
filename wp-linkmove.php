@@ -3,7 +3,7 @@
 Plugin Name: WP-LinkMove
 Plugin URI: http://www.hcsem.com/wp_linkmove/
 Description: 链接水平移动 WordPress 插件
-Version: 0.1
+Version: 1.1
 Author: <a href="http://www.hcsem.com/">黄聪</a>
 */
 

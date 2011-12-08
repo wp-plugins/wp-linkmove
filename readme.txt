@@ -1,8 +1,8 @@
 ﻿===Wordpress Link Move===
 Contributors: 黄聪
 Tags: Wordpress,Link,Move
-Requires at least: 1.0
-Tested up to: 1.0
+Requires at least: 1.1
+Tested up to: 1.2
 Stable tag: trunk
 
 Wordpress Link Move
@@ -13,12 +13,17 @@ Wordpress Link Move
 
 Related Links:
 
+* <a href="http://www.hcsem.com/">广西SEO黄聪（作者博客）</a>
+
 * <a href="http://www.hcsem.com/wp_linkmove/">诚意邀请您参与测试!(重要)</a>
 
 V 1.0
 
-1，第一版完成
+ *第一版完成
 
+V1.1(2011-12-8)
+
+ *删除一些不必要的钩子
 
 
 == Screenshots ==
