@@ -114,9 +114,6 @@ function hcsem_text(){
 	<?php
 }
 
-add_action('publish_post', 'wp_linkmove_by_post');
-add_action('do_wp_linkmove_2','build_wp_linkmove',2,0); 
-/** Tie the module into Wordpress **/
 add_action('admin_menu','wp_linkmove_menu');
 /** load the language file **/
 add_action('get_header', 'wp_linkmove_jquery');
