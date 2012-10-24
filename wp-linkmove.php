@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WP-LinkMove
-Plugin URI: http://www.hcsem.com/wp_linkmove/
+Plugin URI: http://hcsem.com/wp_linkmove/
 Description: 链接水平移动 WordPress 插件
 Version: 1.1
-Author: <a href="http://www.hcsem.com/">黄聪</a>
+Author: <a href="http://hcsem.com/">黄聪</a>
 */
 
 define('WP_LINKMOVE_OPTION','wp_linkmove_option');

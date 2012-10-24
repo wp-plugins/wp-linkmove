@@ -13,9 +13,9 @@ Wordpress Link Move
 
 Related Links:
 
-* <a href="http://www.hcsem.com/">广西SEO黄聪（作者博客）</a>
+* <a href="http://hcsem.com/">广西SEO黄聪（作者博客）</a>
 
-* <a href="http://www.hcsem.com/wp_linkmove/">诚意邀请您参与测试!(重要)</a>
+* <a href="http://hcsem.com/wp_linkmove/">诚意邀请您参与测试!(重要)</a>
 
 V 1.0
 
